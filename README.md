@@ -1,4 +1,4 @@
-?## Olá, eu sou a Milena
+## Olá, eu sou a Milena
 - 👩‍💻 Universitária em Análise e Desenvolvimento de Sistemas
 - 🔎 Criativa e curiosa
 - ⭐ Forte afeição por Web Design 
